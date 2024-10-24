@@ -1,1 +1,1 @@
-Notary: A coding project for searching through text in javascript
+Notary: Javascript ile metin arama yapan bir kodlama projesi
